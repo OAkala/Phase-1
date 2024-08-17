@@ -1,2 +1,2 @@
 # Phase-1
-Phase for politician sentiment analysis project
+Phase 1 for a politician sentiment analysis project.
